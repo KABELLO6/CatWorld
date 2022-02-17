@@ -3,10 +3,10 @@
   "textures": {
     "down": "adusiaworld:blocks/grass_bottom",
     "up": "adusiaworld:blocks/grass_top",
-    "north": "adusiaworld:blocks/oho",
-    "east": "adusiaworld:blocks/oho",
-    "south": "adusiaworld:blocks/oho",
-    "west": "adusiaworld:blocks/oho",
+    "north": "adusiaworld:blocks/grass_side",
+    "east": "adusiaworld:blocks/grass_side",
+    "south": "adusiaworld:blocks/grass_side",
+    "west": "adusiaworld:blocks/grass_side",
     "particle": "adusiaworld:blocks/grass_bottom"
   }
 }
