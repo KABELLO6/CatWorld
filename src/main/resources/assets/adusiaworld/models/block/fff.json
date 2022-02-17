@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "adusiaworld:blocks/grass_top",
+    "up": "adusiaworld:blocks/grass_top",
+    "north": "adusiaworld:blocks/grass_top",
+    "east": "adusiaworld:blocks/grass_top",
+    "south": "adusiaworld:blocks/grass_top",
+    "west": "adusiaworld:blocks/grass_top",
+    "particle": "adusiaworld:blocks/grass_top"
+  }
+}

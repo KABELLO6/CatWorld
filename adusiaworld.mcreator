@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "grass"
+    },
+    {
+      "name": "Fff",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fff"
     }
   ],
   "variable_elements": [],
@@ -25,7 +34,8 @@
   "language_map": {
     "en_us": {
       "tile.grass.name": "Grass",
-      "tile.kekso.name": "Kekso"
+      "tile.kekso.name": "Kekso",
+      "tile.fff.name": "Fff"
     }
   },
   "foldersRoot": {
